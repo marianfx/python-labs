@@ -19,10 +19,8 @@
      - markdown-writer + markdown-preview (*for writing this doc*)
 
 #### Useful links:
-```
-[Python - Courses][cc7cc61a]
-[Python - Laboratories][71ed6d59]
-```
+- [Python - Courses][cc7cc61a]
+- [Python - Laboratories][71ed6d59]
 
   [cc7cc61a]: https://sites.google.com/site/fiipythonprogramming/courses "Python - Courses"
   [71ed6d59]: https://sites.google.com/site/fiipythonprogramming/laboratories "Python - Laboratories"
