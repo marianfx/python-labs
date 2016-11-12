@@ -8,9 +8,9 @@ def copy_file_buffered(filePath, newPath, bufferSize):
     fwriter = open(newPath, 'w')
     while True:
         content = freader.read(bufferSize)
-        fwriter.write(content)
         if content == "":
             break
+        fwriter.write(content)
 
     # close
     fwriter.flush()

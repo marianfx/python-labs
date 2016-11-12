@@ -8,4 +8,4 @@ if __name__ == "__main__":
         b = int(sys.argv[2])
         print(a - b, a + b, a / b, a * b)
     except Exception as captured:
-        print(str(captured))
+        print(captured)
