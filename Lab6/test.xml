@@ -1,0 +1,7 @@
+<xml>
+    <elem data-id="item" class="url" name="url-form">
+        This is some text.
+        <innerelem class="url" name="url-form" data-id="item">
+        </innerelem>
+    </elem>
+</xml>
